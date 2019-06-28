@@ -97,6 +97,7 @@ p{
 .gallery img{
     flex-shrink: 0;
     margin-right: 10px;
+    max-height: 250px;
 }
 
 .gallery-window{
